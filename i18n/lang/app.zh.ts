@@ -7,8 +7,8 @@ const translation = {
   chat: {
     newChat: '新对话',
     newChatDefaultName: '新的对话',
-    openingStatementTitle: '对话开场白',
-    powerBy: 'Powered by',
+    openingStatementTitle: '',
+    powerBy: 'JUFE 100th',
     prompt: '提示词',
     privatePromptConfigTitle: '对话设置',
     publicPromptConfigTitle: '对话前提示词',
