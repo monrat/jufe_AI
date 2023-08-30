@@ -1,7 +1,7 @@
 import type { AppInfo } from '@/types/app'
-export const APP_ID = '5c1c03ff-b699-4710-b1f7-4aeabbdd8f58'
-export const API_KEY = 'app-6uiKBIOFubOd1uBV2rUTTMgE'
-export const API_URL = 'http://154.9.227.68/v1'
+export const APP_ID = ''
+export const API_KEY = ''
+export const API_URL = ''
 export const APP_INFO: AppInfo = {
   title: '会院小智',
   description: '您的入学智能向导！',
