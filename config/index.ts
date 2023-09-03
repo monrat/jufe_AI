@@ -3,7 +3,7 @@ export const APP_ID = ''
 export const API_KEY = ''
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: '会院小智',
+  title: '会院小助',
   description: '您的入学智能向导！',
   copyright: '江西财经大学会计学院',
   privacy_policy: '',
